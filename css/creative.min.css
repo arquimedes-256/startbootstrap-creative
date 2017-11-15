@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .bg-dark {
-    background-color: #212529!important
+    background-color: #0F785B!important
 }
 
 .text-faded {
@@ -59,13 +59,13 @@ section {
 
 ::-moz-selection {
     color: #fff;
-    background: #212529;
+    background: #0F785B;
     text-shadow: none
 }
 
 ::selection {
     color: #fff;
-    background: #212529;
+    background: #0F785B;
     text-shadow: none
 }
 
@@ -80,7 +80,7 @@ img::-moz-selection {
 }
 
 body {
-    -webkit-tap-highlight-color: #212529
+    -webkit-tap-highlight-color: #0F785B
 }
 
 #mainNav {
@@ -107,7 +107,7 @@ body {
     font-size: .9rem;
     font-weight: 700;
     text-transform: uppercase;
-    color: #212529
+    color: #0F785B
 }
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover,#mainNav .navbar-nav>li.nav-item>a.nav-link:hover {
@@ -163,7 +163,7 @@ body {
     }
 
     #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link,#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
-        color: #212529
+        color: #0F785B
     }
 
     #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus:hover,#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:hover {
